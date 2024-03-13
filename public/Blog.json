@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/SXyVg0f/blog.jpg",
+    "title": "Example Title 1",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": "10 mins",
+    "hashtags": [
+      "fiction",
+      "adventure",
+      "writing"
+    ]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/SXyVg0f/blog.jpg",
+    "title": "Example Title 2",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
+    "posted_date": "2024-03-11",
+    "reading_time": "8 mins",
+    "hashtags": [
+      "science fiction",
+      "technology",
+      "future"
+    ]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/SXyVg0f/blog.jpg",
+    "title": "Example Title 3",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
+    "posted_date": "2024-03-10",
+    "reading_time": "12 mins",
+    "hashtags": [
+      "fantasy",
+      "magic",
+      "dragons"
+    ]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/SXyVg0f/blog.jpg",
+    "title": "Example Title 3",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
+    "posted_date": "2024-03-10",
+    "reading_time": "12 mins",
+    "hashtags": [
+      "fantasy",
+      "magic",
+      "dragons"
+    ]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/SXyVg0f/blog.jpg",
+    "title": "Example Title 3",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
+    "posted_date": "2024-03-10",
+    "reading_time": "12 mins",
+    "hashtags": [
+      "fantasy",
+      "magic",
+      "dragons"
+    ]
+  }
+]

@@ -6,7 +6,7 @@
     "author": "John Doe",
     "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
     "posted_date": "2024-03-12",
-    "reading_time": "10 mins",
+    "reading_time": "5",
     "hashtags": [
       "fiction",
       "adventure",
@@ -15,12 +15,12 @@
   },
   {
     "id": 2,
-    "cover": "https://i.ibb.co/SXyVg0f/blog.jpg",
+    "cover": "https://i.ibb.co/k9ZqqHQ/top-view-office-desk-assortment.jpg",
     "title": "Example Title 2",
     "author": "Jane Smith",
     "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
     "posted_date": "2024-03-11",
-    "reading_time": "8 mins",
+    "reading_time": "8 ",
     "hashtags": [
       "science fiction",
       "technology",
@@ -29,12 +29,12 @@
   },
   {
     "id": 3,
-    "cover": "https://i.ibb.co/SXyVg0f/blog.jpg",
+    "cover": "https://i.ibb.co/XXFzr1Q/technology-communication-icons-symbols-concept.jpg",
     "title": "Example Title 3",
     "author": "Alice Johnson",
     "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
     "posted_date": "2024-03-10",
-    "reading_time": "12 mins",
+    "reading_time": "12 ",
     "hashtags": [
       "fantasy",
       "magic",
@@ -43,12 +43,12 @@
   },
   {
     "id": 3,
-    "cover": "https://i.ibb.co/SXyVg0f/blog.jpg",
+    "cover": "https://i.ibb.co/6WBfP9r/desk-elements-arrangement-with-empty-screen-laptop.jpg",
     "title": "Example Title 3",
     "author": "Alice Johnson",
     "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
     "posted_date": "2024-03-10",
-    "reading_time": "12 mins",
+    "reading_time": "12 ",
     "hashtags": [
       "fantasy",
       "magic",
@@ -57,12 +57,12 @@
   },
   {
     "id": 3,
-    "cover": "https://i.ibb.co/SXyVg0f/blog.jpg",
+    "cover": "https://i.ibb.co/qBJCrTG/business-women-signature-document.jpg",
     "title": "Example Title 3",
     "author": "Alice Johnson",
     "author_img": "https://i.ibb.co/7yHvXxF/author.jpg",
     "posted_date": "2024-03-10",
-    "reading_time": "12 mins",
+    "reading_time": "12 ",
     "hashtags": [
       "fantasy",
       "magic",
